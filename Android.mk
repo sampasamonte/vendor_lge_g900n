@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),g900em)
+ifeq ($(TARGET_DEVICE),g900n)
 
 endif
